@@ -3,7 +3,7 @@
 A magazine-style contact adaptive page built as a front-end practice project, focused on translating a design into a pixel-close layout using Bootstrap's utility classes, media queries and SASS.
 
 ## Live Demo
-[View live site](https://jasurbek-olimjonov.github.io/contact-page1/)
+[View live site](https://jasurbek-olimjonov.github.io/food-market1-contact-page/)
 
 ## Overview
 This project recreates a full-page contact layout. The contact, inbox, and recipe sections are built using Bootstrap utilities and SASS. Responsive design is achieved through a combination of media queries and CSS Grid properties to adapt the layout across different screen sizes.
@@ -18,7 +18,7 @@ Built primarily with Bootstrap (flex and positioning utilities) to deepen hands-
 
 ## Project Structure
 ```
-contact-page1/
+food-market1-contact-page/
 ├── assets/
 │   ├── images/
 │   └── svg/
@@ -40,8 +40,8 @@ contact-page1/
 ## Getting Started
 Clone the repo and open `index.html` in your browser — or, if you're editing the SASS:
 ```bash
-git clone https://github.com/Jasurbek-Olimjonov/contact-page1.git
-cd contact-page1
+git clone https://github.com/Jasurbek-Olimjonov/food-market1-contact-page.git
+cd food-market1-contact-page
 # compile SASS if using a live-sass-compiler or similar
 ```
 
