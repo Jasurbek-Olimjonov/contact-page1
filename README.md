@@ -9,7 +9,7 @@ A magazine-style contact adaptive page built as a front-end practice project, fo
 This project recreates a full-page contact layout. The contact, inbox, and recipe sections are built using Bootstrap utilities and SASS. Responsive design is achieved through a combination of media queries and CSS Grid properties to adapt the layout across different screen sizes.
 
 ## Tech Stack & Approach
-Built primarily with Bootstrap (flex and positioning utilities) to deepen hands-on experience with the framework. Custom SCSS handles the parts Bootstrap's utilities couldn't cleanly express — typography, sizing, and fine-grained positioning.
+Built primarily with Bootstrap (flex and spacing utilities) to deepen hands-on experience with the framework. Custom SCSS handles the parts Bootstrap's utilities couldn't cleanly express — typography, sizing, and fine-grained positioning.
 
 ## What I Practiced
 - Building responsive layouts with media queries
